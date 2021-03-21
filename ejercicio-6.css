@@ -1,0 +1,20 @@
+.container {
+  width: 300px;
+  height: 300px;
+  border: 5px solid black;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  display: inline-block;
+}
+
+.container .container__item {
+  margin-left: 10%;
+}
+
+.container .container__ribbon {
+  position: absolute;
+  left: 200px;
+  top: 200px;
+}
+/*# sourceMappingURL=ejercicio-6.css.map */
