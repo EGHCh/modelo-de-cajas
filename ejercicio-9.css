@@ -1,0 +1,37 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: sans-serif;
+  display: inline-block;
+}
+
+.title-container {
+  background-color: black;
+  color: whitesmoke;
+  padding: 10px;
+  width: 100vw;
+}
+
+.main-container__menu {
+  background-color: lightgrey;
+  width: 20vw;
+  position: absolute;
+  height: 200px;
+}
+
+.main-container__blog {
+  width: 80vw;
+  float: right;
+  height: 200px;
+  padding: 10px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+footer {
+  padding: 10px;
+  text-align: center;
+  clear: both;
+  background-color: grey;
+}
+/*# sourceMappingURL=ejercicio-9.css.map */

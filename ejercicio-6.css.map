@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,UAAU,CAAC;EACP,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,KAAK;EACb,MAAM,EAAE,eAAe;EACvB,eAAe,EAAE,MAAM;EACvB,OAAO,EAAE,YAAY;CAUxB;;AAfD,AAOI,UAPM,CAON,gBAAgB,CAAC;EACb,WAAW,EAAE,GAAG;CACnB;;AATL,AAUI,UAVM,CAUN,kBAAkB,CAAC;EACf,QAAQ,EAAE,QAAQ;EAClB,IAAI,EAAE,KAAK;EACX,GAAG,EAAE,KAAK;CACT",
+    "sources": [
+        "ejercicio-6.scss"
+    ],
+    "names": [],
+    "file": "ejercicio-6.css"
+}
